@@ -1,4 +1,4 @@
-Partial git mirror of Google C++ Testing Framework
+Partial make-only git mirror of Google C++ Testing Framework
 
 Upstream SVN: https://code.google.com/p/googletest/
 
